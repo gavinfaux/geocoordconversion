@@ -1,3 +1,5 @@
+This repository is not maintained; see https://www.doogal.co.uk/dotnetcoords.php for an alternative.
+
 Forked from http://code.google.com/p/geocoordconversion/
 
 What is this?
